@@ -1,3 +1,3 @@
 # CalculadoraJS
-Calculadora em JavaScript
+Calculadora em JavaScript:
 https://penguin1411.github.io/CalculadoraJS/
